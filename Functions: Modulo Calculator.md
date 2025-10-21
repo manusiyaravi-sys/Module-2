@@ -22,7 +22,8 @@ b = int(input())
 print("Modulo of", a, "and", b, "is:", modulo(a, b))
 ```
 ## Output
-![Uploading m2-2.PNG…]()
+<img width="411" height="135" alt="m2-2" src="https://github.com/user-attachments/assets/9c72474d-7d02-47b6-a737-4d86f021c607" />
+
 
 ## Result
 successfuly created
